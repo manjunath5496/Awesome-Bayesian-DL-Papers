@@ -23,11 +23,20 @@ Deep Gaussian Processes </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Bayesian-DL-Papers/blob/master/bdl(12).pdf" style="text-decoration:none;">Rapid Prototyping of Probabilistic Models: Emerging Challenges in Variational Inference</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Bayesian-DL-Papers/blob/master/bdl(13).pdf" style="text-decoration:none;">On Modern Deep Learning and Variational Inference</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Bayesian-DL-Papers/blob/master/bdl(14).pdf" style="text-decoration:none;">Scalable Variational Gaussian Process Classication</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Bayesian-DL-Papers/blob/master/bdl(14).pdf" style="text-decoration:none;">Scalable Variational Gaussian Process Classification</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Bayesian-DL-Papers/blob/master/bdl(15).pdf" style="text-decoration:none;">Deep Survival Analysis</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Bayesian-DL-Papers/blob/master/bdl(16).pdf" style="text-decoration:none;">Translating Videos to Natural Language Using Deep Recurrent Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Bayesian-DL-Papers/blob/master/bdl(16).pdf" style="text-decoration:none;">Bayesian Inference</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Bayesian-DL-Papers/blob/master/bdl(17).pdf" style="text-decoration:none;">Uncertainty in Deep Learning</a></li>   
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Bayesian-DL-Papers/blob/master/bdl(18).pdf" style="text-decoration:none;">Introduction to Bayesian Statistics</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Bayesian-DL-Papers/blob/master/bdl(19).pdf" style="text-decoration:none;">A Gentle Introduction to Bayesian Analysis: Applications to Developmental Research</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Bayesian-DL-Papers/blob/master/bdl(20).pdf" style="text-decoration:none;">Bayesian modeling of human concept learning</a></li>
+
+ 
   </ul>
